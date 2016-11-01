@@ -4,7 +4,7 @@ body {
    color: #666;
 }
 
-/* Hover effect doesn't work well for mobille. Left it out.
+/* Hover effect doesn't work well for mobile. Left it out.
 a {
   color: #eaeaea;
   -webkit-transition: color .5s;
@@ -45,7 +45,6 @@ a:hover, a:visited, a:active {
   text-transform: uppercase;
 }
 
-.header: hover {
-  color: #666;
-  -webkit-transition: color .5s;
+.footer {
+  border-top: 1px solid #eaeaea;
 }
