@@ -48,6 +48,19 @@ function Urls() {
       </div>
 
       <div>
+        <h3>Reading</h3>
+        <a href="http://highscalability.com/">High Scalibility</a><br/>
+      </div>
+
+      <div>
+        <h3>Other Blogs</h3>
+        <a href="http://www.aaronsw.com/">Aaron Swartz</a><br/>
+          <a href="http://gordonbrander.com/pattern/">Gordon Brander Patterns</a><br/>
+          <a href="https://lengstorf.com/">Jason Lengstorf</a><br/>
+          <a href="https://www.taniarascia.com/">Tania Rascia</a><br/>
+      </div>
+
+      <div>
         <h3>Activities</h3>
         <a href="http://crailtap.com/">Crailtap</a><br/>
         <a href="http://www.surplace.fr/ffgc/">Fixed Gear Calculator</a><br/>
