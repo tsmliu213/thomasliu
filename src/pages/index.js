@@ -58,6 +58,7 @@ function Urls() {
           <a href="http://gordonbrander.com/pattern/">Gordon Brander Patterns</a><br/>
           <a href="https://lengstorf.com/">Jason Lengstorf</a><br/>
           <a href="https://www.taniarascia.com/">Tania Rascia</a><br/>
+          <a href="https://kentcdodds.com/blog/">Kent C. Dodds</a><br/>
       </div>
 
       <div>
