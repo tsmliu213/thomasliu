@@ -36,6 +36,7 @@ function Urls() {
         <a href="https://www.railstutorial.org/book">Ruby Tutorial (Michael Hartl)</a><br/>
         <a href="http://poignant.guide/book/chapter-2.html">Ruby Poignant Guide</a><br/>
         <a href="https://www.youtube.com/watch?v=ecIWPzGEbFc&feature=youtu.be">"Uncle" Bob Martin - "The Future of Programming"</a><br/>
+        <a href="https://yuiblog.com/blog/2006/11/28/performance-research-part-1/">Performance Research, Part 1: What the 80/20 Rule Tells Us about Reducing HTTP Requests</a>  
         <br/>
         <a href="https://www.codecademy.com/">Code Cademy</a><br/>
         <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks</a><br/>
