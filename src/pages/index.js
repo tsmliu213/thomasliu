@@ -51,6 +51,8 @@ function Urls() {
       <div>
         <h3>Reading</h3>
         <a href="http://highscalability.com/">High Scalibility</a><br/>
+        <br/>
+        <a href="https://arxiv.org/abs/1905.01051">Browser Fingerprinting: A survey</a><br/>
       </div>
 
       <div>
