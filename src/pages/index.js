@@ -53,6 +53,7 @@ function Urls() {
         <a href="http://highscalability.com/">High Scalibility</a><br/>
         <br/>
         <a href="https://arxiv.org/abs/1905.01051">Browser Fingerprinting: A survey</a><br/>
+        <a href="https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How Browsers Work: Behind the scenes of modern web browsers</a><br/>
       </div>
 
       <div>
