@@ -43,6 +43,7 @@ function Urls() {
         <a href="http://cssreference.io/">CSS Reference</a><br/>
         <a href="http://www.htmldog.com/">HTML Dog</a><br/>
         <a href="https://www.udacity.com/">Udacity</a><br/>
+        <a href="https://serverless.css-tricks.com/">The Power of Serverless</a><br/>
         <br/>
         <a href="https://www.hackerrank.com/">Hacker Rank</a><br/>
         <a href="https://leetcode.com/">Leet Code</a><br/>
