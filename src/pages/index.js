@@ -56,6 +56,8 @@ function Urls() {
         <br/>
         <a href="https://arxiv.org/abs/1905.01051">Browser Fingerprinting: A survey</a><br/>
         <a href="https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">How Browsers Work: Behind the scenes of modern web browsers</a><br/>
+        <a href="https://kottke.org/"></a><br/>
+        <a href="https://daringfireball.net/"></a><br/>
       </div>
 
       <div>
