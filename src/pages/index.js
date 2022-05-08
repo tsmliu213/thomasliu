@@ -45,6 +45,7 @@ function Urls() {
         <a href="http://www.htmldog.com/">HTML Dog</a><br/>
         <a href="https://www.udacity.com/">Udacity</a><br/>
         <a href="https://serverless.css-tricks.com/">The Power of Serverless</a><br/>
+        <a href="https://www.patterns.dev/">Design Patterns</a><br/>
         <br/>
         <a href="https://www.hackerrank.com/">Hacker Rank</a><br/>
         <a href="https://leetcode.com/">Leet Code</a><br/>
